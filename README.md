@@ -14,7 +14,7 @@ The paper of Open-pFind has been uploaded to the preprint server of bioRxiv: <a 
 ## Downloads
 
     
-pFind 3 is currently free to use. **[Download pFind 3.1.2](http://pfind.ict.ac.cn/software/pFind3/index.html#Downloads)**.
+pFind 3 is currently free to use. **[Download pFind 3.1.2](http://pfind.ict.ac.cn/file/3.1/pFind3.1_Setup_20171231.exe)**.
 
 Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/file/3.1/pFind3_User_Guide-v20171231.pdf) before download and use pFind 3.
 
