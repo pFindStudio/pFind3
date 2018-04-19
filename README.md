@@ -17,7 +17,7 @@ The paper of Open-pFind has been uploaded to the preprint server of bioRxiv: <a 
     
 pFind 3 is currently free to use. **[Download pFind 3.1.2](http://pfind.ict.ac.cn/file/3.1/pFind3.1_Setup_20171231.exe)**.
 
-Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/file/3.1/pFind 3 UserGuide v3.1.2.pdf) before download and use pFind 3.
+Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/file/3.1/pFind%203%20UserGuide%20v3.1.2.pdf) before download and use pFind 3.
 
 Notice:
 <p>* The expiration date is set on <b>Jan. 1, 2019</b>.</p>
