@@ -20,8 +20,8 @@ Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/file/3.1/pFind3
 
 Notice:
 <p>* The expiration date is set on <b>Jan. 1, 2019</b>.</p>
-<p>* If RAW file read required, <a href="http://thermo-msfilereader-x86-x64.software.informer.com/3.0/" target="_blank">MSFileReader 3.0</a> need be installed first.</p>
-<p>* <a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=30653" target="_blank">.NET framework 4.5 </a> or a higher version is required. You can download it from here.</p>
+<p>* If RAW file read required, <a href="http://thermo-msfilereader-x86-x64.software.informer.com/3.0/" target="_blank">MSFileReader 3.0</a> or a higher version need be installed first.</p>
+<p>* <a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=30653" target="_blank">.NET framework 4.5 </a> or a higher version is required.</p>
 <p>* pFind can support Windows 7 or higher, and the operating system should be <b>64-bit</b>.</p>
 <p>* For Windows 7 operating system, please run the setup program under administrator authority. If any one program cannot properly run after the installation, please try to right click on the program shortcut or the .exe file, and click on "Run as administrator".</p>
 
@@ -29,7 +29,7 @@ If you have any questions about it, please contact [pfind@ict.ac.cn.](mailto:pfi
 
 Online discussion: [https://github.com/pFindStudio/pFind3/issues](https://github.com/pFindStudio/pFind3/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for usage.
 
-## pLink Release Notes
+## pFind Release Notes
 
 #### Version 3.1.2 - April 10 2018
 * The first released version.
