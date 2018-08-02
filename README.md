@@ -15,12 +15,12 @@ The paper of Open-pFind has been uploaded to the preprint server of bioRxiv: <a 
 ## Downloads
 
     
-pFind 3 is currently free to use. **[Download pFind 3.1.2](http://pfind.ict.ac.cn/file/3.1/pFind3.1_Setup_20171231.exe)**.
+pFind 3 is currently free to use. **[Download pFind 3.1.3](http://pfind.ict.ac.cn/file/3.1/pFind3.1_Setup_20180801.exe)**.
 
-Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/file/3.1/pFind%203%20UserGuide%20v3.1.2.pdf) before download and use pFind 3.
+Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/file/3.1/pFind%203%20UserGuide.pdf) before download and use pFind 3.
 
 Notice:
-<p>* The expiration date is set on <b>Jan. 1, 2019</b>.</p>
+<p>* The expiration date is set on <b>Aug. 1, 2019</b>.</p>
 <p>* If RAW file read required, <a href="http://thermo-msfilereader-x86-x64.software.informer.com/3.0/" target="_blank">MSFileReader 3.0</a> or a higher version need be installed first.</p>
 <p>* <a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=30653" target="_blank">.NET framework 4.5 </a> or a higher version is required.</p>
 <p>* pFind can support Windows 7 or higher, and the operating system should be <b>64-bit</b>.</p>
@@ -31,6 +31,17 @@ If you have any questions about it, please contact [pfind@ict.ac.cn.](mailto:pfi
 Online discussion: [https://github.com/pFindStudio/pFind3/issues](https://github.com/pFindStudio/pFind3/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for usage.
 
 ## pFind Release Notes
+
+#### Version 3.1.3 - August 1 2018
+* [IMPORTANT] The new expiration date is August 1, 2019. As the license module is updated, please applied for the new license file.
+* [IMPORTANT] Fixed a bug when setting the workspace directory.
+* [IMPORTANT] Fixed a bug of the license module which may affect the registration of some users using Win 10 system.
+* Fixed a text error in the pFind.spectra file.</li>
+* Added a warning when users choose "open search" for low resolution MS/MS data.
+* Added the option of retrieving all PSMs by any given protein accession number in pBuild.
+* Optimized the appearance of the welcome page.
+* Optimized the option of comparing two PSMs.
+* Optimized the naming rule of the temporary files output by the kernel program.
 
 #### Version 3.1.2 - April 10 2018
 * The first released version.
