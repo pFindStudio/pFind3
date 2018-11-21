@@ -32,17 +32,33 @@ Online discussion: [https://github.com/pFindStudio/pFind3/issues](https://github
 
 ## pFind Release Notes
 
-#### Version 3.1.3 - August 1 2018
+#### Version 3.1.4 - Nov. 21 2018
+* [pFind-GUI] [IMPORTANT] Added a new quantitation method of "Report-Intensity", which is the same as the common identification workflow but call pQuant to calculate the intensity of each peptide afterwards.
+* [Kernel] [IMPORTANT] Fixed a bug of processing large protein databases (> 4GB).
+* [pFind-GUI] User must click the 'Save' button and then click the 'Start' button to start a search.
+* [pFind-GUI] Changed the default parameters of TMT-6plex and TMT-10plex
+* [pFind-GUI] Fixed a bug of saving parameter files in processing MS2 quantitation
+* [pBuild] Added the feature of reporting all retention times of the identified peptides.
+* [pBuild] Added the feature of reporting all matched b/y ions of the identified PSMs.
+* [pBuild] Fixed some typos in the interface.
+* [pBuild] Optimized the demonstration of the identification with MGF files.
+* [Kernel] Output the procedure of generating peptide candidates when the program is running.
+* [Kernel] Output a new result file named "pFind-Filtered.spectra", which contains the target PSMs within the given FDR threshold, e.g., 0.01.
+* [pParse] Fixed a bug of output the .csv file of large MS/MS data (it may contain multiple headers).
+* [pParse] Supported the export of precursors of low resoluation MS1 data (do not call pParse algorithm but only output the corresponding .pf1 and .pf2 files for the following database search).
+* License since version 3.1.3 is still valid for this version.
+
+#### Version 3.1.3 - Aug. 1 2018
 * [IMPORTANT] The new expiration date is August 1, 2019. As the license module is updated, please applied for the new license file.
 * [IMPORTANT] Fixed a bug when setting the workspace directory.
 * [IMPORTANT] Fixed a bug of the license module which may affect the registration of some users using Win 10 system.
-* Fixed a text error in the pFind.spectra file.</li>
+* Fixed a text error in the pFind.spectra file.
 * Added a warning when users choose "open search" for low resolution MS/MS data.
 * Added the option of retrieving all PSMs by any given protein accession number in pBuild.
 * Optimized the appearance of the welcome page.
 * Optimized the option of comparing two PSMs.
 * Optimized the naming rule of the temporary files output by the kernel program.
 
-#### Version 3.1.2 - April 10 2018
+#### Version 3.1.2 - Apr. 10 2018
 * The first released version.
 
