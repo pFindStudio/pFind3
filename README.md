@@ -15,13 +15,13 @@ The paper of Open-pFind has been uploaded to the preprint server of bioRxiv: <a 
 ## Downloads
 
     
-pFind 3 is currently free to use. **[Download pFind 3.1.3](http://pfind.ict.ac.cn/file/3.1/pFind3.1_Setup_20180801.exe)**.
+pFind 3 is currently free to use. **[Download pFind 3.1.4](http://pfind.ict.ac.cn/file/3.1/pFind3.1_Setup_20181121.exe)**.
 
 Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/file/3.1/pFind%203%20UserGuide.pdf) before download and use pFind 3.
 
 Notice:
 <p>* The expiration date is set on <b>Aug. 1, 2019</b>.</p>
-<p>* If RAW file read required, <a href="http://thermo-msfilereader-x86-x64.software.informer.com/3.0/" target="_blank">MSFileReader 3.0</a> or a higher version need be installed first.</p>
+<p>* If RAW file read required, <a href="https://thermo.flexnetoperations.com/control/thmo/product?plneID=632401" target="_blank">MSFileReader 3.0</a> or a higher version need be installed first.</p>
 <p>* <a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=30653" target="_blank">.NET framework 4.5 </a> or a higher version is required.</p>
 <p>* pFind can support Windows 7 or higher, and the operating system should be <b>64-bit</b>.</p>
 <p>* For Windows 7 operating system, please run the setup program under administrator authority. If any one program cannot properly run after the installation, please try to right click on the program shortcut or the .exe file, and click on "Run as administrator".</p>
