@@ -15,23 +15,47 @@ The paper of Open-pFind has been uploaded to the preprint server of bioRxiv: <a 
 ## Downloads
 
     
-pFind 3 is currently free to use. **[Download pFind 3.1.5](http://pfind.ict.ac.cn/file/3.1/pFind3.1_Setup_20190124.exe)**.
+pFind 3 is currently free to use. **[Download pFind 3.2.2](http://pfind.org/file/3.2.2/pFind3.2.2_Setup_20241220.exe)**.
 
-Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/file/3.1/pFind%203%20UserGuide.pdf) before download and use pFind 3.
+Please download and read [user_guide.pdf](http://pfind.org/file/3.1/pFind%203%20UserGuide.pdf) before download and use pFind 3.
 
 Notice:
-<p>* The expiration date is set on <b>Dec. 31, 2019</b>.</p>
+<p>* The expiration date is set on <b>Dec. 20, 2027</b>.</p>
 <p>* If RAW file read required, <a href="https://thermo.flexnetoperations.com/control/thmo/product?plneID=632401" target="_blank">MSFileReader 3.0</a> or a higher version need be installed first.</p>
-<p>* <a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=30653" target="_blank">.NET framework 4.5 </a> or a higher version is required.</p>
+<p>* <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet-framework" target="_blank">.NET framework 4.8 </a> or a higher version is required.</p>
 <p>* pFind can support Windows 7 or higher, and the operating system should be <b>64-bit</b>.</p>
 <p>* For Windows 7 operating system, please run the setup program under administrator authority. If any one program cannot properly run after the installation, please try to right click on the program shortcut or the .exe file, and click on "Run as administrator".</p>
 
-If you have any questions about it, please contact [pfind@ict.ac.cn](mailto:pfind@ict.ac.cn).
+If you have any questions about it, please contact [pfind@pfind.org](mailto:pfind@pfind.org).
 
-Online discussion: [https://github.com/pFindStudio/pFind3/issues](https://github.com/pFindStudio/pFind3/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for usage.
+Online discussion: [https://github.com/pFindStudio/pFind3/issues](https://github.com/pFindStudio/pFind3/issues), see [github.pdf](http://pfind.org/file/github.pdf) for usage.
 
 ## pFind Release Notes
 
+### Version
+
+#### Version 3.2.2 - Dec. 20 2024
+* The new expiration date is Dec.18, 2027. License since Version 3.2.1 still valid for this version.
+* Adding support for timsTOF pro, Astral instruments and FAIMS data.
+* Adding PFB/PFC data file format for efficient reading and writing.
+* Optimized the efficiency of data preprocessing against large-scale RAW file data.
+* [pParse] Improved precursor detection for low-abundance or incomplete isotopic clusters.
+* [pFind-GUI] Adding a notification module for publishing messages.
+
+#### Version 3.2.1 - Jun. 6 2023
+* Fixed a bug when processing large protein databases.
+
+#### Version 3.2.0 - Jan. 5 2023
+* The new expiration date is Jan. 10, 2026. License since version 3.1.3 is still valid for this version.
+* Optimized the workflow of searching against huge proteome database files.
+* Optimized the function of blind search, which has been used in [pChem](http://pfind.org/software/pChem/index.html).
+* Fixed some bugs in the previous version and changed a few descriptions in the result files.
+
+#### Version 3.1.6 - Dec. 29 2019
+* The new expiration date is Jan. 10, 2023. License since version 3.1.3 is still valid for this version.
+* [Kernel] Optimized the performance of the restricted search mode on low resolusion MS data.
+* [Kernel] Fixed the bug when processing the MS/MS data with negative charge mode.
+* [GUI] Adding the multi-process-mode when running pParse.
 
 #### Version 3.1.5 - Jan. 24 2019
 * The new expiration date is Dec. 31, 2019. License since version 3.1.3 is still valid for this version.
