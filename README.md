@@ -15,9 +15,9 @@ The paper of Open-pFind has been uploaded to the preprint server of bioRxiv: <a 
 ## Downloads
 
     
-pFind 3 is currently free to use. **[Download pFind 3.2.2](http://pfind.org/file/3.2.2/pFind3.2.2_Setup_20241220.exe)**.
+pFind 3 is currently free to use. **[Download pFind 3.2.2](http://pfind.net/file/3.2.2/pFind3.2.2_Setup_20241220.exe)**.
 
-Please download and read [user_guide.pdf](http://pfind.org/file/3.1/pFind%203%20UserGuide.pdf) before download and use pFind 3.
+Please download and read [user_guide.pdf](http://pfind.net/file/3.1/pFind%203%20UserGuide.pdf) before download and use pFind 3.
 
 Notice:
 <p>* The expiration date is set on <b>Dec. 20, 2027</b>.</p>
@@ -26,7 +26,7 @@ Notice:
 <p>* pFind can support Windows 7 or higher, and the operating system should be <b>64-bit</b>.</p>
 <p>* For Windows 7 operating system, please run the setup program under administrator authority. If any one program cannot properly run after the installation, please try to right click on the program shortcut or the .exe file, and click on "Run as administrator".</p>
 
-If you have any questions about it, please contact [pfind@pfind.org](mailto:pfind@pfind.org).
+If you have any questions about it, please contact [pfind@pfind.net](mailto:pfind@pfind.net).
 
 Online discussion: [https://github.com/pFindStudio/pFind3/issues](https://github.com/pFindStudio/pFind3/issues), see [github.pdf](http://pfind.org/file/github.pdf) for usage.
 
