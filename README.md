@@ -26,7 +26,7 @@ Notice:
 <p>* pFind can support Windows 7 or higher, and the operating system should be <b>64-bit</b>.</p>
 <p>* For Windows 7 operating system, please run the setup program under administrator authority. If any one program cannot properly run after the installation, please try to right click on the program shortcut or the .exe file, and click on "Run as administrator".</p>
 
-If you have any questions about it, please contact [pfind@pfind.net](mailto:pfind@pfind.net).
+If you have any questions about it, please contact [pfind@pfind.org](mailto:pfind@pfind.org).
 
 Online discussion: [https://github.com/pFindStudio/pFind3/issues](https://github.com/pFindStudio/pFind3/issues), see [github.pdf](http://pfind.org/file/github.pdf) for usage.
 
