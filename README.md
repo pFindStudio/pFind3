@@ -15,7 +15,7 @@ The paper of Open-pFind has been uploaded to the preprint server of bioRxiv: <a 
 ## Downloads
 
     
-pFind 3 is currently free to use. **[Download pFind 3.2.2](http://pfind.net/file/3.2.2/pFind3.2.2_Setup_20241220.exe)**.
+pFind 3 is currently free to use. **[Download pFind 3.2.3](https://pfind.ict.ac.cn/se/pfind/ds/202504/P020260105651150783771.zip)**.
 
 Please download and read [user_guide.pdf](https://pfind.ict.ac.cn/se/pfind/ds/202504/P020251210531424473591.pdf) before download and use pFind 3.
 
@@ -33,6 +33,10 @@ Online discussion: [https://github.com/pFindStudio/pFind3/issues](https://github
 ## pFind Release Notes
 
 ### Version
+
+#### Version 3.2.3 - Jan. 04 2026
+* Fixed a potential issue in protein target/decoy labeling.
+* Fixed robustness issues when loading FAIMS and TIMS data.
 
 #### Version 3.2.2 - Dec. 20 2024
 * The new expiration date is Dec.18, 2027. License since Version 3.2.1 still valid for this version.
