@@ -20,7 +20,7 @@ pFind 3 is currently free to use. **[Download pFind 3.2.3](https://pfind.ict.ac.
 Please download and read [user_guide.pdf](https://pfind.ict.ac.cn/se/pfind/ds/202504/P020251210531424473591.pdf) before download and use pFind 3.
 
 Notice:
-<p>* The expiration date is set on <b>Dec. 20, 2027</b>.</p>
+<p>* The expiration date is set on <b>Dec. 20, 2028</b>.</p>
 <p>* If RAW file read required, <a href="https://thermo.flexnetoperations.com/control/thmo/product?plneID=632401" target="_blank">MSFileReader 3.0</a> or a higher version need be installed first.</p>
 <p>* <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet-framework" target="_blank">.NET framework 4.8 </a> or a higher version is required.</p>
 <p>* pFind can support Windows 7 or higher, and the operating system should be <b>64-bit</b>.</p>
@@ -35,6 +35,7 @@ Online discussion: [https://github.com/pFindStudio/pFind3/issues](https://github
 ### Version
 
 #### Version 3.2.3 - Jan. 04 2026
+* The new expiration date is Dec.20, 2028. License since Version 3.2.2 still valid for this version.
 * Fixed a potential issue in protein target/decoy labeling.
 * Fixed robustness issues when loading FAIMS and TIMS data.
 
