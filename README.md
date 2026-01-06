@@ -9,8 +9,8 @@ The paper of Open-pFind has been uploaded to the preprint server of bioRxiv: <a 
 
 
 ## Cite us
-1. <a href="https://www.biorxiv.org/content/early/2018/03/20/285395">Open-pFind enables precise, comprehensive and rapid peptide identification in shotgun proteomics</a></h6>
-      Hao Chi, Chao Liu, Hao Yang, Wen-Feng Zeng, Long Wu, Wen-Jing Zhou, Xiu-Nan Niu, Yue-He Ding, Yao Zhang, Rui-Min Wang, Zhao-Wei Wang, Zhen-Lin Chen, Rui-Xiang Sun, Tao Liu, Guang-Ming Tan, Meng-Qiu Dong, Ping Xu, Pei-Heng Zhang, Si-Min He. <b>BioRxiv</b>, Mar. 20, 2018. </a></p>
+1. <a href="https://www.nature.com/articles/nbt.4236">Open-pFind enables precise, comprehensive and rapid peptide identification in shotgun proteomics</a></h6>
+      Hao Chi, Chao Liu, Hao Yang, Wen-Feng Zeng, Long Wu, Wen-Jing Zhou, Xiu-Nan Niu, Yue-He Ding, Yao Zhang, Rui-Min Wang, Zhao-Wei Wang, Zhen-Lin Chen, Rui-Xiang Sun, Tao Liu, Guang-Ming Tan, Meng-Qiu Dong, Ping Xu, Pei-Heng Zhang, Si-Min He. <b>Nature Biotechnology</b>, 2018. </a></p>
 
 ## Downloads
 
